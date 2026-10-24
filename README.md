@@ -1,22 +1,22 @@
 <!-- =========================================================================================
      🚀 MOHAMMAD NAHID MAHMUD - ULTIMATE ENTERPRISE GITHUB PROFILE README
-     🎓 CSE @ Southeast University | Learning • Building • Improving
+     🎓 CSE @ Southeast University | Aspiring AI/ML Engineer & Researcher
      📍 Dhaka, Bangladesh
 ========================================================================================== -->
 
 <!-- ======================= 1. ANIMATED GRADIENT HEADER BANNER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=240&section=header&text=Mohammad%20Nahid%20Mahmud&fontSize=46&fontColor=00F0FF&animation=fadeIn&fontAlignY=36&desc=CSE%20%40%20Southeast%20University%20%7C%20Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Improving&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=240&section=header&text=Mohammad%20Nahid%20Mahmud&fontSize=46&fontColor=00F0FF&animation=fadeIn&fontAlignY=36&desc=Aspiring%20AI%2FML%20Engineer%20and%20Researcher&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 </div>
 
-<!-- ======================= 2. DUAL ANIMATED TYPING TERMINAL ======================= -->
+<!-- ======================= 2. DUAL ANIMATED TYPING TERMINAL (FIXED) ======================= -->
 <div align="center">
   <a href="https://github.com/nahidmahmud71">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=850&height=45&lines=Software+Developer+%7C+AI+and+Research+Enthusiast;2nd-Year+CSE+Undergraduate+at+Southeast+University;Passionate+About+Algorithms+and+System+Architecture;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+Every+Single+Day" alt="Typing Animation 1" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=850&height=45&lines=Aspiring+AI%2FML+Engineer+and+Researcher;CSE+Student+at+Southeast+University;Python+and+Java+Developer;Turning+complex+problems+into+intelligent+solutions" alt="Typing Animation 1" />
   </a>
   <br>
   <a href="https://github.com/nahidmahmud71">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=30&lines= Exploring+Python+%7C+Java+%7C+TypeScript+%7C+C%2B%2B+%7C+Full-Stack+Web;Building+AegisAI+%E2%80%A2+ResearchPilot+%E2%80%A2+BanglaBrain+%E2%80%A2+Aurenza;Active+Open-Source+Contributor+and+Academic+Researcher" alt="Typing Animation 2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=30&lines=Building+AURENZA+and+AI-integrated+applications;Project+Manager+and+Report+Lead+at+Team+Andromeda;Passionate+about+Algorithms+and+Numerical+Methods;Let's+connect+for+AI+and+research+collaboration!" alt="Typing Animation 2" />
   </a>
 </div>
 
@@ -50,26 +50,27 @@
 
 <pre><code>
 name: "Mohammad Nahid Mahmud"
-role: "Computer Science & Engineering Undergraduate"
-institution: "Southeast University (2nd Year)"
+role: "Aspiring AI/ML Engineer & Researcher | Python and Java Developer"
+institution: "Southeast University"
+cgpa: "3.8*"
 location: "Dhaka, Bangladesh"
-motto: "Learning • Building • Improving"
 research_interests:
-  - "Artificial Intelligence & Machine Learning Systems"
-  - "RISC-V Computer Architecture & Digital Logic"
-  - "Algorithm Design, Numerical Methods & Data Science"
-  - "AI Ethics & Information System Design"
-current_focus: "Developing intelligent web & AI applications and publishing undergraduate research papers"
-team_affiliation: "Team Andromeda"
+  - "Artificial Intelligence and Machine Learning"
+  - "AI-integrated applications"
+  - "Algorithms and numerical methods"
+  - "Engineering ethics and responsible technology"
+leadership: "Project Manager and Report Lead of Team Andromeda"
+entrepreneurship: "Founder & Developer of luxury clothing brand AURENZA"
 contact: "nahidmahmud826@gmail.com"
 </code></pre>
 
 <div align="left">
   <ul>
-    <li>🎓 <b>Academic Excellence:</b> Pursuing B.Sc. in <b>Computer Science & Engineering (CSE)</b> at <b>Southeast University</b> with a deep focus on core computer science fundamentals and academic research.</li>
-    <li>🚀 <b>Engineering Philosophy:</b> Driven by the motto <i><b>"Learning • Building • Improving"</b></i> — transforming theoretical concepts in algorithms, data structures, and AI into production-ready tools.</li>
-    <li>🔬 <b>Research & Innovation:</b> Actively authoring academic survey and architecture papers (including <b>RISC-V Architecture</b> and <b>AI Ethics</b>) alongside building research automation platforms like <b>ResearchPilot</b>.</li>
-    <li>🤝 <b>Collaboration:</b> Lead contributor in <b>Team Andromeda</b>, developing numerical analysis engines, enterprise Java systems, and interactive web applications.</li>
+    <li>🎓 <b>Academic Profile:</b> I am a Computer Science and Engineering student at <b>Southeast University</b> with a strong interest in Artificial Intelligence, Machine Learning, and research. I currently hold a <b>CGPA of 3.8*</b>.</li>
+    <li>🚀 <b>Engineering Goals:</b> I aim to build a career in AI and machine learning, combining research with real-world software to create systems that are both capable and responsible. I enjoy building software that turns complex problems into practical, intelligent solutions.</li>
+    <li>💼 <b>Leadership & Management:</b> As <b>Project Manager and Report Lead of Team Andromeda</b>, I have developed strong skills in team management, technical documentation, and collaborative development.</li>
+    <li>💡 <b>Entrepreneurship:</b> I am building <b>AURENZA</b>, my own luxury clothing brand, and I developed its multi-page e-commerce front end using HTML, CSS, and JavaScript.</li>
+    <li>🤝 <b>Let's Connect:</b> Always open if you are interested in AI, research collaboration, or tech discussions!</li>
   </ul>
 </div>
 
@@ -77,41 +78,35 @@ contact: "nahidmahmud826@gmail.com"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
 <!-- ======================= 5. CATEGORIZED TECH ARSENAL ======================= -->
-<h2 align="center">🛠️ Comprehensive Tech Stack & Engineering Tools</h2>
-<p align="center"><i>Languages, frameworks, databases, and research tools powering my projects</i></p>
+<h2 align="center">🛠️ Technical Skills & Engineering Tools</h2>
+<p align="center"><i>Core Areas: Data Structures and Algorithms, Numerical Methods, Digital Logic Design</i></p>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,html,css,mysql,git,github,vscode,idea,linux&theme=dark&perline=7" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,html,css,js,ts,tailwind,mysql,git,github,vscode,idea,linux&theme=dark&perline=7" alt="Tech Stack Icons" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h4>💻 Programming & Scripting Languages</h4>
+  <h4>💻 Languages</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-  <h4>🌐 Web, UI Frameworks & App Development</h4>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <h4>🌐 Web Technologies</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 
-  <h4>🔬 Data Science, Research & Developer Ecosystem</h4>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <h4>🔬 Tools & Ecosystem</h4>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 <!-- Animated Neon Divider -->
@@ -201,10 +196,10 @@ contact: "nahidmahmud826@gmail.com"
 | :--- | :--- | :---: | :---: | :---: |
 | **[AegisAI](https://github.com/nahidmahmud71/AegisAI)** | Intelligent AI platform built with modern TypeScript architecture | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/AegisAI?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/AegisAI) |
 | **[ResearchPilot](https://github.com/nahidmahmud71/ResearchPilot)** | Smart academic paper search & exploration engine | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/ResearchPilot?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/ResearchPilot) |
-| **[Global-Scholar](https://github.com/nahidmahmud71/Global-Scholar)** | Python automation and scholarly resource management system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Global-Scholar?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Global-Scholar) |
-| **[HealthCare-BD](https://github.com/nahidmahmud71/HealthCare-BD)** | Digital healthcare service & data management platform | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/HealthCare-BD?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/HealthCare-BD) |
+| **[Global-Scholar](https://github.com/nahidmahmud71/Global-Scholar)** | (Student Command Center) AI dashboard built with Gemini API | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Global-Scholar?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Global-Scholar) |
+| **[HealthCare-BD](https://github.com/nahidmahmud71/HealthCare-BD)** | Digital health service portal for emergency medical assistance | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/HealthCare-BD?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/HealthCare-BD) |
 | **[SEU-Smart-Adviser](https://github.com/nahidmahmud71/SEU-Smart-Adviser)** | Automated academic advising assistant for Southeast University | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/SEU-Smart-Adviser?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/SEU-Smart-Adviser) |
-| **[Numerical-Newton-Cotes-Andromeda](https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda)** | Trapezoidal, Simpson's 1/3 & 3/8 Numerical Methods Engine | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Numerical-Newton-Cotes-Andromeda?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda) |
+| **[Numerical-Newton-Cotes-Andromeda](https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda)** | Numerical Integration Analysis with Trapezoidal & Simpson's rules | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Numerical-Newton-Cotes-Andromeda?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda) |
 | **[STA-PROJECT](https://github.com/nahidmahmud71/STA-PROJECT)** | Statistical computing, visualization & data analysis notebooks | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/STA-PROJECT?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/STA-PROJECT) |
 
 <br>
@@ -218,7 +213,7 @@ contact: "nahidmahmud826@gmail.com"
 | **[quantum-vault](https://github.com/nahidmahmud71/quantum-vault)** | Next-gen digital vault interface and web layout | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/quantum-vault?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/quantum-vault) |
 | **[QuantumVisualizer](https://github.com/nahidmahmud71/QuantumVisualizer)** | Interactive algorithm & concept visualization web tool | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/QuantumVisualizer?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/QuantumVisualizer) |
 | **[PhishingLink](https://github.com/nahidmahmud71/PhishingLink)** | Cybersecurity & phishing link analysis awareness interface | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/PhishingLink?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/PhishingLink) |
-| **[CGPA-Calculator](https://github.com/nahidmahmud71/CGPA-Calculator)** | Dynamic university grade point average computation web app | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/CGPA-Calculator?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/CGPA-Calculator) |
+| **[CGPA-Calculator](https://github.com/nahidmahmud71/CGPA-Calculator)** | Student Portal personalized dashboard for tracking CGPA & credits | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/CGPA-Calculator?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/CGPA-Calculator) |
 | **[Nahids-Vault](https://github.com/nahidmahmud71/Nahids-Vault)** | Custom-styled personal digital repository & vault UI | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Nahids-Vault?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Nahids-Vault) |
 | **[Your-Vault](https://github.com/nahidmahmud71/Your-Vault)** | Responsive modern vault interface with custom CSS architecture | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Your-Vault?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Your-Vault) |
 
@@ -228,7 +223,7 @@ contact: "nahidmahmud826@gmail.com"
 
 | Repository | Overview & Domain | Primary Tech | Live Repository Activity | Access |
 | :--- | :--- | :---: | :---: | :---: |
-| **[RescueNet-Pro](https://github.com/nahidmahmud71/RescueNet-Pro)** | Emergency response management & coordination software | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/RescueNet-Pro?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/RescueNet-Pro) |
+| **[RescueNet-Pro](https://github.com/nahidmahmud71/RescueNet-Pro)** | (RescueNet Bangladesh) Emergency response coordination system | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/RescueNet-Pro?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/RescueNet-Pro) |
 | **[Dress-Collection](https://github.com/nahidmahmud71/Dress-Collection)** | Object-oriented apparel catalog & management application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Dress-Collection?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Dress-Collection) |
 | **[Registration-Form](https://github.com/nahidmahmud71/Registration-Form)** | Interactive Java desktop user registration system | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Registration-Form?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Registration-Form) |
 | **[Admission-Form](https://github.com/nahidmahmud71/Admission-Form)** | Student admission workflow & form processing system | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/nahidmahmud71/Admission-Form?style=flat-square&color=00F0FF) | [🔗 Explore](https://github.com/nahidmahmud71/Admission-Form) |
@@ -251,8 +246,8 @@ contact: "nahidmahmud826@gmail.com"
 
 <!-- ======================= 9. FOOTER & FINAL CALL TO ACTION ======================= -->
 <div align="center">
-  <h3>🤝 Let's Collaborate on Research & Open-Source</h3>
-  <p><i>Always open to discussing AI research, software engineering projects, and innovative ideas!</i></p>
+  <h3>🤝 Let's connect if you are interested in AI, research collaboration, or tech discussions.</h3>
+  <p><i>Building systems that are both capable and responsible.</i></p>
   <a href="https://www.linkedin.com/in/mohammadnahidmahmud/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -262,5 +257,5 @@ contact: "nahidmahmud826@gmail.com"
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Improving&fontSize=20&fontColor=00F0FF&fontAlignY=65" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=Aspiring%20AI%2FML%20Engineer%20and%20Researcher&fontSize=20&fontColor=00F0FF&fontAlignY=65" width="100%" alt="Footer Wave" />
 </div>
