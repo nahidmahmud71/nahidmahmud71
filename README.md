@@ -1,136 +1,158 @@
-<!-- Animated Header -->
+<!-- Premium Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=220&section=header&text=Welcome%20To%20Nahid's%20Universe&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50"/>
 </div>
 
-<!-- Typing Animation & Profile Views -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Md.+Nahid+Mahmud+👋;2nd-Year+CSE+Undergrad+💻;Algorithm+Enthusiast+%26+Future+Researcher+🚀;Building+Smart+Tools+%26+Web+Applications+✨" alt="Typing SVG" />
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=Hi+there,+I'm+Md.+Nahid+Mahmud+👋;2nd-Year+CSE+Undergrad+💻;Algorithm+Enthusiast+%26+Future+Researcher+🚀;Let's+build+something+amazing+together!+✨" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=nahidmahmud71&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
 
-<!-- Animated Trophies -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nahidmahmud71&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="nahidmahmud71" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 About Me & Academic Focus
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation">
-
-- 🎓 2nd-year **Computer Science and Engineering** undergraduate.
-- 🔬 Focused on **Algorithm Design, Asymptotic Notation, Computer Architecture, and Networking**.
-- 💡 Planning to publish academic research papers before graduation for postgraduate applications.
-- 🤝 Actively collaborating on projects and coursework (Proud member of team **Andromeda** 🚀).
-- 🛠️ Comfortable designing everything from detailed LaTeX academic reports to interactive Python applications.
+<!-- Perfectly Aligned About Me & GIF Section -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 2nd-Year <b>Computer Science and Engineering</b> Undergrad.</li>
+        <li>💡 Exploring the depths of <b>Software Engineering, Algorithms, and Web Development</b>.</li>
+        <li>🤝 Proud member of team <b>Andromeda</b>, always open to collaborations.</li>
+        <li>🔬 Highly passionate about Academic Research and AI/ML applications.</li>
+        <li>📫 Reach me directly at: <b><a href="mailto:nahidmahmud826@gmail.com">nahidmahmud826@gmail.com</a></b></li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
 <br>
 
----
-
-### 🚀 Premium Project Showcase
-
-গিটহাবের অটোমেটেড কার্ড ব্যবহার করে আপনার প্রজেক্টগুলো এখানে সাজানো হয়েছে। এগুলো লাইভ ডেটা দেখাবে (Star, Fork, Language)। *(আপনার অন্য রিপোজিটরিগুলো অ্যাড করতে নিচের `YOUR_REPO_NAME_HERE` লেখা জায়গায় আপনার গিটহাবের রিপোজিটরির নামগুলো বসিয়ে দিন)*।
-
+<!-- Premium Skill Icons -->
+<h3 align="center">🛠️ My Tech Stack</h3>
 <div align="center">
-  <table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,mysql,vscode,idea,github&theme=dark" alt="Premium Skills"/>
+  </a>
+</div>
+
+<br>
+
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 My Achievements</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nahidmahmud71&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+<!-- Featured Projects (Cards) -->
+<h3 align="center">🌟 Featured Projects</h3>
+<div align="center">
+  <table border="0">
     <tr>
-      <!-- Project 1: ResearchPilot -->
+      <td width="50%">
+        <a href="https://github.com/nahidmahmud71/AegisAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=AegisAI&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="AegisAI"/>
+        </a>
+      </td>
       <td width="50%">
         <a href="https://github.com/nahidmahmud71/ResearchPilot">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=ResearchPilot&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="ResearchPilot"/>
         </a>
       </td>
-      <!-- Project 2: Aurenza -->
-      <td width="50%">
-        <a href="https://github.com/nahidmahmud71/Aurenza">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=Aurenza&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="Aurenza"/>
-        </a>
-      </td>
     </tr>
     <tr>
-      <!-- Project 3: Slot 3 -->
       <td width="50%">
-        <a href="https://github.com/nahidmahmud71/YOUR_REPO_NAME_HERE">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=YOUR_REPO_NAME_HERE&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="Project 3"/>
+        <a href="https://github.com/nahidmahmud71/BanglaBrain">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=BanglaBrain&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="BanglaBrain"/>
         </a>
       </td>
-      <!-- Project 4: Slot 4 -->
       <td width="50%">
-        <a href="https://github.com/nahidmahmud71/YOUR_REPO_NAME_HERE">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=YOUR_REPO_NAME_HERE&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="Project 4"/>
+        <a href="https://github.com/nahidmahmud71/aurenza">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=aurenza&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="aurenza"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
----
+<br>
 
-### 💻 Tech Stack & Tools
+<!-- All Projects Categorized -->
+<h3 align="center">📁 Complete Project Directory</h3>
 
+#### 🤖 AI, Data & Python Scripts
+| Project Name | Language / Tool | Link |
+|---|---|---|
+| **Global-Scholar** | Python | [View Repo](https://github.com/nahidmahmud71/Global-Scholar) |
+| **HealthCare-BD** | Python | [View Repo](https://github.com/nahidmahmud71/HealthCare-BD) |
+| **SEU-Smart-Adviser** | Python | [View Repo](https://github.com/nahidmahmud71/SEU-Smart-Adviser) |
+| **Numerical-Newton-Cotes-Andromeda** | Python | [View Repo](https://github.com/nahidmahmud71/Numerical-Newton-Cotes-Andromeda) |
+| **STA-PROJECT** | Jupyter Notebook | [View Repo](https://github.com/nahidmahmud71/STA-PROJECT) |
+
+#### 🌐 Web Development (HTML/CSS/JS)
+| Project Name | Language / Tool | Link |
+|---|---|---|
+| **quantum-vault** | HTML | [View Repo](https://github.com/nahidmahmud71/quantum-vault) |
+| **QuantumVisualizer** | HTML | [View Repo](https://github.com/nahidmahmud71/QuantumVisualizer) |
+| **PhishingLink** | HTML | [View Repo](https://github.com/nahidmahmud71/PhishingLink) |
+| **CGPA-Calculator** | CSS | [View Repo](https://github.com/nahidmahmud71/CGPA-Calculator) |
+| **Nahids-Vault** | CSS | [View Repo](https://github.com/nahidmahmud71/Nahids-Vault) |
+| **Your-Vault** | CSS | [View Repo](https://github.com/nahidmahmud71/Your-Vault) |
+
+#### ☕ Java & Software Applications
+| Project Name | Language / Tool | Link |
+|---|---|---|
+| **RescueNet-Pro** | Java | [View Repo](https://github.com/nahidmahmud71/RescueNet-Pro) |
+| **RescueNet** | Java | [View Repo](https://github.com/nahidmahmud71/RescueNet) |
+| **Dress-Collection** | Java | [View Repo](https://github.com/nahidmahmud71/Dress-Collection) |
+| **Registration-Form** | Java | [View Repo](https://github.com/nahidmahmud71/Registration-Form) |
+| **Admission-Form** | Java | [View Repo](https://github.com/nahidmahmud71/Admission-Form) |
+| **JavaFX** | Java | [View Repo](https://github.com/nahidmahmud71/JavaFX) |
+| **JAVA** | Java | [View Repo](https://github.com/nahidmahmud71/JAVA) |
+
+#### 📚 Academic & Research Papers
+| Project Name | Type | Link |
+|---|---|---|
+| **RISC-V-Paper** | Research | [View Repo](https://github.com/nahidmahmud71/RISC-V-Paper) |
+| **Survey-Paper** | Research | [View Repo](https://github.com/nahidmahmud71/Survey-Paper) |
+| **ETHICS-PROJECT** | Academic | [View Repo](https://github.com/nahidmahmud71/ETHICS-PROJECT) |
+| **ISD-CEP** | Academic | [View Repo](https://github.com/nahidmahmud71/ISD-CEP) |
+
+<br>
+
+<!-- Clean GitHub Analytics (Live Data) -->
+<h3 align="center">📈 GitHub Analytics</h3>
 <div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br><br>
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
-  <br><br>
-  <!-- IDEs -->
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nahidmahmud71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00F0FF" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidmahmud71&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" height="190" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidmahmud71&theme=tokyonight&hide_border=true&fire=00F0FF" alt="GitHub Streak" />
 </div>
 
----
+<br>
 
-### 📈 GitHub Analytics & Activity
-
+<!-- Social Links & Footer -->
+<h3 align="center">🔗 Let's Connect</h3>
 <div align="center">
-  <!-- Dynamic Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidmahmud71&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=00F0FF" width="100%" alt="Activity Graph" />
+  <a href="https://www.linkedin.com/in/mohammadnahidmahmud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&padding=10" alt="LinkedIn" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- GitHub Lifetime Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nahidmahmud71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00F0FF" height="195" alt="GitHub Stats" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidmahmud71&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&langs_count=6" height="195" alt="Top Languages" />
-</div>
-
----
-
-### 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammadnahidmahmud/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&padding=10" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nahidmahmud826@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&padding=10" alt="Email" />
-  </a>
-</div>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=80&section=footer" width="100%"/>
 </div>
