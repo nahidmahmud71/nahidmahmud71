@@ -1,37 +1,36 @@
 <!-- Premium Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=220&section=header&text=Welcome%20To%20Nahid's%20Universe&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=220&section=header&text=Welcome%20To%20Nahid's%20Universe&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner"/>
 </div>
 
+<!-- Fixed Typing Animation (Removed emojis from URL to fix broken image) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=Hi+there,+I'm+Md.+Nahid+Mahmud+👋;2nd-Year+CSE+Undergrad+💻;Algorithm+Enthusiast+%26+Future+Researcher+🚀;Let's+build+something+amazing+together!+✨" alt="Typing SVG" />
+  <a href="https://github.com/nahidmahmud71">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=Hi+there,+I'm+Md.+Nahid+Mahmud;2nd-Year+CSE+Undergrad;Algorithm+Enthusiast+%26+Future+Researcher;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nahidmahmud71&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br>
+<br><br>
 
-<!-- Perfectly Aligned About Me & GIF Section -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🎓 2nd-Year <b>Computer Science and Engineering</b> Undergrad.</li>
-        <li>💡 Exploring the depths of <b>Software Engineering, Algorithms, and Web Development</b>.</li>
-        <li>🤝 Proud member of team <b>Andromeda</b>, always open to collaborations.</li>
-        <li>🔬 Highly passionate about Academic Research and AI/ML applications.</li>
-        <li>📫 Reach me directly at: <b><a href="mailto:nahidmahmud826@gmail.com">nahidmahmud826@gmail.com</a></b></li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation">
-    </td>
-  </tr>
-</table>
+<!-- Perfectly Aligned About Me & GIF Section (Without Tables to remove white borders) -->
+<div align="left">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Animation">
+  
+  <h3>👨‍💻 About Me</h3>
+  <ul>
+    <li>🎓 2nd-Year <b>Computer Science and Engineering</b> Undergrad.</li>
+    <li>💡 Exploring the depths of <b>Software Engineering, Algorithms, and Web Development</b>.</li>
+    <li>🤝 Proud member of team <b>Andromeda</b>, always open to collaborations.</li>
+    <li>🔬 Highly passionate about <b>Academic Research and AI/ML applications</b>.</li>
+    <li>📫 Reach me directly at: <b><a href="mailto:nahidmahmud826@gmail.com">nahidmahmud826@gmail.com</a></b></li>
+  </ul>
+</div>
 
+<br clear="both">
 <br>
 
 <!-- Premium Skill Icons -->
@@ -44,48 +43,37 @@
 
 <br>
 
-<!-- GitHub Trophies -->
+<!-- Fixed GitHub Trophies -->
 <h3 align="center">🏆 My Achievements</h3>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nahidmahmud71&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nahidmahmud71&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
 <br>
 
-<!-- Featured Projects (Cards) -->
+<!-- Featured Projects (Grid layout without tables to avoid borders) -->
 <h3 align="center">🌟 Featured Projects</h3>
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/nahidmahmud71/AegisAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=AegisAI&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="AegisAI"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/nahidmahmud71/ResearchPilot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=ResearchPilot&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="ResearchPilot"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/nahidmahmud71/BanglaBrain">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=BanglaBrain&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="BanglaBrain"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/nahidmahmud71/aurenza">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=aurenza&theme=tokyonight&show_icons=true&hide_border=true" width="100%" alt="aurenza"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/nahidmahmud71/AegisAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=AegisAI&theme=tokyonight&show_icons=true&hide_border=true" width="48%" alt="AegisAI"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/nahidmahmud71/ResearchPilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=ResearchPilot&theme=tokyonight&show_icons=true&hide_border=true" width="48%" alt="ResearchPilot"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/nahidmahmud71/BanglaBrain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=BanglaBrain&theme=tokyonight&show_icons=true&hide_border=true" width="48%" alt="BanglaBrain"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/nahidmahmud71/aurenza">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nahidmahmud71&repo=aurenza&theme=tokyonight&show_icons=true&hide_border=true" width="48%" alt="aurenza"/>
+  </a>
 </div>
 
-<br>
+<br><br>
 
 <!-- All Projects Categorized -->
 <h3 align="center">📁 Complete Project Directory</h3>
@@ -128,20 +116,22 @@
 | **ETHICS-PROJECT** | Academic | [View Repo](https://github.com/nahidmahmud71/ETHICS-PROJECT) |
 | **ISD-CEP** | Academic | [View Repo](https://github.com/nahidmahmud71/ISD-CEP) |
 
-<br>
+<br><br>
 
-<!-- Clean GitHub Analytics (Live Data) -->
-<h3 align="center">📈 GitHub Analytics</h3>
+<!-- Activity Graph (NEW FEATURE) & Stats -->
+<h3 align="center">📈 GitHub Activity & Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidmahmud71&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=00F0FF" width="100%" alt="Activity Graph" />
+</div>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahidmahmud71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00F0FF" height="190" alt="GitHub Stats" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidmahmud71&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" height="190" alt="Top Languages" />
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidmahmud71&theme=tokyonight&hide_border=true&fire=00F0FF" alt="GitHub Streak" />
-</div>
 
-<br>
+<br><br>
 
 <!-- Social Links & Footer -->
 <h3 align="center">🔗 Let's Connect</h3>
