@@ -1,10 +1,3 @@
-Vai, apnar deya screenshot ta dekhlam. Ekhane chat interface-e vitorer `yaml` block er backticks (`````) dekhe main copy box ta venge geche, jar fole nicher table gulo r copy korar box er vitore nai.
-
-Ami ebar puro code-take ekta strict `text` block er vitore ekebare seal kore dicchi jate kono vabei r na vange. Ebar just nicher box er top-right corner theke **"Copy code"** e click korlei 100% code eksathe perfectly copy hobe.
-
-Ekdom top-notch, Silicon Valley pro-developer der moto premium lagbe eta apnar GitHub e apply korle. Copy kore direct `README.md` te paste kore din:
-
-```text
 <!-- =========================================================================================
      🚀 MOHAMMAD NAHID MAHMUD - ULTIMATE ENTERPRISE GITHUB PROFILE README
      🎓 CSE @ Southeast University | Aspiring AI/ML Engineer & Researcher
@@ -283,5 +276,3 @@ ping_me: "nahidmahmud826@gmail.com"
 <div align="center">
   <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=Applied%20AI%20Developer%20%26%20Researcher&fontSize=20&fontColor=00F0FF&fontAlignY=65](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&text=Applied%20AI%20Developer%20%26%20Researcher&fontSize=20&fontColor=00F0FF&fontAlignY=65)" width="100%" alt="Footer Wave" />
 </div>
-
-```
